@@ -1,8 +1,8 @@
-﻿var myArray = ['Gordon Moseley', 'ieatpcs'];
+﻿var myArray = ['Romeo Sincere', 'ieatpcs'];
 var myData = {}
-myData.fullName = "Gordon Moseley";
+myData.fullName = "Romeo Sincere";
 myData.skypeName = myArray[1];
-myData.github = null;
+myData.github = "moseleygj";
 alert("My Full name is: "+myData.fullName);
 alert("My GitHub name is: "+myData.github);
 alert("My skype name is: "+myData.skypeName);
